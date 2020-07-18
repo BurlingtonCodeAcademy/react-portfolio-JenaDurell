@@ -1,0 +1,14 @@
+#navbar{
+    
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 5vh;
+    font-family: 'Nunito Sans', sans-serif;
+    
+}
+
+.nav-link{
+    text-decoration: none;
+
+}

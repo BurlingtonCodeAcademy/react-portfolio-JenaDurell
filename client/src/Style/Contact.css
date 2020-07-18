@@ -1,0 +1,18 @@
+#contact-head {
+    height: 95vh;
+    width: auto;
+    background-image: url(../Images/moonDune.JPG);
+    background-size: 100vw 95vh;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 27px;
+    color:whitesmoke;
+    padding-left: 7vw;
+}
+.me-about{ 
+    display: flex;
+    align-items: flex-end;
+    width: Calc(35% - 10px);
+    height: auto;
+}
+
+
