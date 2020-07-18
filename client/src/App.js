@@ -9,7 +9,7 @@ import Projects from './Components/Projects'
 import Hobbies from './Components/Hobbies'
 import Work from './Components/Work'
 import Contact from './Components/Contact'
-import Photos from './Components/About'
+
 
 
 export default class App extends Component {

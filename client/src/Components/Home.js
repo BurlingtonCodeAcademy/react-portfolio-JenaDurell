@@ -14,6 +14,7 @@ export default function Home(props) {
            </div>
 <br></br>
 <br></br>
+
 <a class = 'link-class' href = 'https://www.jpdgallery.com/' target="_blank">jpdgallery.com</a>
 <br></br>
 <br></br>
