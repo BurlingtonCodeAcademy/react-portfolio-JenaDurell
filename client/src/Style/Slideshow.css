@@ -1,27 +1,28 @@
 .Photos {
+    padding-top: 13px;
     text-align: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;;
+    align-items: center;
+    
 }
 
-#lg-img-wrapper {
-    height: 300px;
-    width: 200px;
-    border: 5px solid black;
-}
+
 
 .lg-img {
     width: 300px;
-    height: auto
+    height: auto;
+    border: 5px solid black;
+    
 }
 
 .thumbnail {
     width: 100px;
     height: 100px;
     object-fit: cover;
-    border-radius: 50%;
+    border-radius: 60%;
+    border: 3px solid black
 }
 #rotating-carousel{ 
     display: flex;

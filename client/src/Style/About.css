@@ -1,0 +1,12 @@
+#about-text {
+   /* background-color: yellow; */
+   /* text-align: center; */
+}
+h1{
+    text-align: center;
+}
+p {
+    width: 50%;
+    margin: auto;
+    justify-content: left;
+}

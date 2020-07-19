@@ -43,27 +43,32 @@ locationHandler = (evt) => {
 
   render() {
     let backgroundColor;
-    if(this.state.location === 'Home') {
+    let urlPath = window.location.pathname.split('/')[1].toLowerCase()
+
+    if(urlPath === 'home'|| urlPath === '') {
       backgroundColor='gray'
     }
 
-    else if(this.state.location === 'About') {
+    else if(urlPath === 'about') {
       backgroundColor='lawngreen'
     }
 
-    else if(this.state.location === 'Projects') {
+    else if(urlPath === 'projects') {
       backgroundColor= "rgb(149, 211, 226)"
     }
 
-    else if(this.state.location === 'Hobbies') {
+    else if(urlPath === 'hobbies') {
       backgroundColor= "skyblue"
     }
 
-    else if(this.state.location === 'Work') {
+    else if(urlPath === 'work') {
       backgroundColor= "gray"
     }
-    else if(this.state.location === 'Contact') {
+    else if(urlPath === 'contact') {
       backgroundColor= "coral"
+    }
+    else {
+      backgroundColor = "gray"
     }
 
 

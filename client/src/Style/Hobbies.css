@@ -5,3 +5,16 @@
     background-size: 100vw 95vh;
     font-family: 'Nunito Sans', sans-serif;
 }
+
+#words {
+    font-size: 33px;
+    color: whitesmoke;
+    font-weight: bold;
+    padding-left: 17vw;
+  }
+
+  #p2{
+      width: 98%;
+      font-weight: bolder;
+      font-size: 17px;
+  }
