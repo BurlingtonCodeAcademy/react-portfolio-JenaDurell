@@ -28,6 +28,8 @@ a:hover{
 .git-link {
     padding-left: 15vw;
     font-size: 33px;
+    text-decoration: none;
+    color: whitesmoke;
 }
 
 .project-info{

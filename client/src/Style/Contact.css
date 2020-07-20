@@ -8,11 +8,8 @@
     color:whitesmoke;
     padding-left: 7vw;
 }
-.me-about{ 
-    display: flex;
-    align-items: flex-end;
-    width: Calc(35% - 10px);
-    height: auto;
+a{
+    text-decoration: none;
+    color: whitesmoke;
 }
-
 
