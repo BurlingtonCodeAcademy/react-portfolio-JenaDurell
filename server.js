@@ -10,5 +10,7 @@ app.get('*', (req,res) => {
     res.sendFile('index.html')
 })
 
-app.listen(port)
+app.listen(port, () => {
+    console.log('listening on port', port)
+})
 
