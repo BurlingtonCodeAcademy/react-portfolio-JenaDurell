@@ -40,8 +40,8 @@ export default function Work(props) {
                     </p7>
                 </div>
                 <div id = "finally">
-                    <p>For a detailed description of my work history, please see my <a href = 'https://www.linkedin.com/in/jena-durell-b5044b89/' target="_blank">linkedIn profile... </a> 
-                        <a href = 'https://www.linkedin.com/in/jena-durell-b5044b89/' target="_blank">Linkedin</a>
+                    <p>For a detailed description of my work history, please see my <a href = 'https://www.linkedin.com/in/jena-durell-b5044b89/' target="_blank">linkedIn profile. </a> 
+                        <a href = 'https://www.linkedin.com/in/jena-durell-b5044b89/' target="_blank"></a>
                     </p>
 
                 </div>
