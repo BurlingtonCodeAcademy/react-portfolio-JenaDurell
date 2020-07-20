@@ -1,4 +1,4 @@
-#workbody {
+#work-body {
     height: 95vh;
     width: auto;
     background-image: url(../Images/bright.JPEG);
@@ -30,9 +30,9 @@
     font-weight: 550;
     ;
 }
-#workbody a {
+#work-body a {
     color: darkgray !important
 }
-#workbody a:visited {
+#work-body a:visited {
     color: darkgray !important
 }

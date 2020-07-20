@@ -3,7 +3,7 @@ import '../Style/Work.css'
 
 export default function Work(props) {
     return (
-        <div id="workbody">
+        <div id="work-body">
             <div id="work">
                 <br></br>
            It's not where you've been, it's where you're going...
