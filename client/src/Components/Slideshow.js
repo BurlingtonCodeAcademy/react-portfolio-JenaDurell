@@ -12,10 +12,11 @@ import ArrowBackIosIcon from '@material-ui/icons/ArrowBackIos';
 import ArrowForwardIosIcon from '@material-ui/icons/ArrowForwardIos';
 import IconButton from "@material-ui/core/IconButton";
 import jenaVessell from '../Images/jenaVessell.jpg'
+import meFull from '../Images/meFull.JPG'
 
 
 const imgArray = [
-    family, meSnowboarding, sundanceLift, newYear, sundance, quadView, beach, niquetteBay, jenaVessell
+    jenaVessell, meFull, family, meSnowboarding, sundanceLift, newYear, sundance, quadView, beach, niquetteBay, 
 ]
 
 // makes carousel of images
@@ -40,10 +41,6 @@ function Slideshow() {
 
     return (
         <div className="Photos">
-
-
-            <br></br>
-
             <div id="rotating-carousel" >
 
                 <IconButton

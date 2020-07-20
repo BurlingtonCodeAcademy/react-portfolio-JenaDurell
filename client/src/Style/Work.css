@@ -1,8 +1,38 @@
 #workbody {
     height: 95vh;
     width: auto;
-    background-image: url(../Images/boston.JPEG);
+    background-image: url(../Images/bright.JPEG);
     background-size: 100vw 95vh;
     font-family: 'Nunito Sans', sans-serif;
-    
+    color: black !important
+}
+
+#work{
+    padding-left: 5.5vw;
+    font-size: 33px;
+    font-weight: bold;
+}
+
+#experience{
+    margin-top: 5px;
+    padding-left: 7vw;
+    width: 80%;
+    font-weight: 550;
+}
+
+#code-skills-chart {
+    font-weight: bold;
+    padding-left: 50vw;
+}
+
+#other-work {
+    width: 33vw;
+    font-weight: 550;
+    ;
+}
+#workbody a {
+    color: darkgray !important
+}
+#workbody a:visited {
+    color: darkgray !important
 }

@@ -11,7 +11,7 @@ import Work from './Components/Work'
 import Contact from './Components/Contact'
 
 
-
+// this changes the color of the navigation bar based on which page the user is on
 export default class App extends Component {
   constructor(props) {
     super(props) 
@@ -23,14 +23,7 @@ export default class App extends Component {
     }
 
   }
-//find out how to finish this so that if someone types exact loction in url it displays correct color
-// componentDidMount() {
-//   if(this.state.location === "") {
-//     this.setState({
-//       location : "Home"
-//     })
-//   }
-// }
+
 
 locationHandler = (evt) => {
   this.setState({

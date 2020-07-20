@@ -11,15 +11,15 @@ export default function Contact(props) {
        
 <br></br>
 <br></br>
-<a class = 'link-class' href = 'https://www.jpdgallery.com/' target="_blank">jpdgallery.com</a>
+<a href = 'https://www.jpdgallery.com/' target="_blank">jpdgallery.com</a>
 <br></br>
 <br></br>
 
 
-<a class = 'link-class' href = 'https://www.linkedin.com/in/jena-durell-b5044b89/' target="_blank">Linkedin</a>
+<a href = 'https://www.linkedin.com/in/jena-durell-b5044b89/' target="_blank">Linkedin</a>
 <br></br>
 <br></br>
-<a class = 'link-class' href = 'https://www.instagram.com/snowy_vt/?hl=en' target="_blank">Instagram</a>
+<a href = 'https://www.instagram.com/snowy_vt/?hl=en' target="_blank">Instagram</a>
 <br></br>
 <br></br>
 <br></br>

@@ -18,11 +18,13 @@ import boats from '../Images/boats.JPEG'
 import sunsetBirds from '../Images/sunsetBirds.JPG'
 import fall from '../Images/fall.JPEG'
 import stowe from '../Images/stowe.JPG'
+import shelburne from '../Images/shelburne.JPG'
+import qcsa from '../Images/qcsa.JPEG'
 
 
 
 const imgArray2 = [
-boardwalk, sunsetBirds, fall, vesselCenter, bluebird, foliageWatery, ogunquit, dunes, MIT, snowyTreeLookup, boats, phillyReflect, sharpGrass, NotreDame, stowe
+boardwalk, sunsetBirds, qcsa, fall, shelburne, vesselCenter, bluebird, foliageWatery, ogunquit, dunes, MIT, snowyTreeLookup, boats, phillyReflect, sharpGrass, NotreDame, stowe
 ]
 
 // makes carousel for rotating images

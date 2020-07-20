@@ -1,12 +1,23 @@
 #about-text {
-   /* background-color: yellow; */
-   /* text-align: center; */
+   /* background-color: yellow */
+   height: 130%;
+    width: 100%;
+    background-image: url(../Images/blurGrass.JPG);
+    background-size: 250%;
+    font-family: 'Nunito Sans', sans-serif;
+    background-repeat: repeat-y;
 }
-h1{
+
+#p3{
+    font-size: 33px;
     text-align: center;
+    font-weight: bold;
+    color:gray !important
 }
+
 p {
-    width: 50%;
+    width: 62%;
     margin: auto;
     justify-content: left;
+    
 }
