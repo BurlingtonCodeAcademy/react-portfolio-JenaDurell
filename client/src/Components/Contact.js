@@ -30,7 +30,7 @@ export default function Contact(props) {
 <br></br>
 <br></br>
 
-<div class = "phone-and-email">
+<div className = "phone-and-email">
     <div>Jena Durell</div>
     <div>802.391.4048</div>
     <div>jena.durell@gmail.com</div>

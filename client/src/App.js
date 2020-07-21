@@ -32,7 +32,9 @@ locationHandler = (evt) => {
 
   })
 }
-
+componentDidMount() {
+  window.scrollTo(0,0)
+}
 
   render() {
     let backgroundColor;
