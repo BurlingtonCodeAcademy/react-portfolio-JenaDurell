@@ -1,9 +1,18 @@
 import React from 'react'
 import '../Style/Work.css'
-
+import WorkBackground from '../Images/bright.JPEG'
+var sectionStyle = {
+    backgroundImage: `url(${WorkBackground})`,
+    backgroundPosition: 'center',
+    backgroundSize: 'cover',
+    backgroundRepeat: 'y',
+    width: '100%',
+    height: '100%',
+    minHeight:"95vh"
+};
 export default function Work(props) {
     return (
-        <div id="work-body">
+        <div style={sectionStyle} id="work-body">
             <div id="work">
                 <br></br>
            It's not where you've been, it's where you're going...
