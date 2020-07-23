@@ -14,7 +14,7 @@ export default function Projects(props) {
             
             <div id="project-body">
                 {/* all links open to git repositories in separate window */}
-                <a className="git-link" href="https://github.com/BurlingtonCodeAcademy/yelpington-JenaDurell" target="_blank">Yelpington!</a>
+                <a className="git-link" href="https://github.com/BurlingtonCodeAcademy/yelpington-JenaDurell" target="_blank">Yelpington </a> <a className="git-link" href = "https://jena-durell-yelpington.herokuapp.com/" target = "_blank">gClick here to try Yelpington yourself!</a>
                 <div className="project-info">
                     <p>Yelpington is an app loosely based on Yelp, where the user is able to look at a map, click on a restaurant location, and go to both the Yelpington page for that restaurant as well as the website published by the restaurant. Yelpington is written using Javascript, HTML, CSS, leaflet maps and JQuery. </p>
                 </div>
