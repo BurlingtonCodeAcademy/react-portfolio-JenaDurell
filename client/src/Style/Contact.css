@@ -1,15 +1,42 @@
-#contact-head {
+#contact-body{
+    background-image: url(../Images/moonDune.JPG);
     height: 95vh;
     width: auto;
-    background-image: url(../Images/moonDune.JPG);
     background-size: 100vw 95vh;
     font-family: 'Nunito Sans', sans-serif;
-    font-size: 27px;
     color:whitesmoke;
+}
+
+#contact-head {
+    padding-top: 3vh;
+    font-size: 4vw;
     padding-left: 7vw;
 }
+
+#link-container{
+    font-size: 2vw;
+    display: flex;
+    flex-direction: column;
+    padding-left: 10vw;
+    padding-top: 2vw;
+}
+
 a{
+    padding: 0.7vw;
     text-decoration: none;
     color: whitesmoke;
+}
+
+#right-bottom-corner{
+    height: 90%;
+    width: 90%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-size: 2vw;
+}
+
+.phone-and-email{
+
 }
 
