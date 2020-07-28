@@ -2,6 +2,7 @@
     font-family: 'Nunito Sans', sans-serif;
     color: black !important;
     overflow: hidden;
+
 }
 
 #work{
@@ -70,10 +71,11 @@
 }
 
 #finally{
-    width: 100vw;
+    width: 100%;
     display: flex;
     justify-content: center;
     font-size: 1vw;
+    overflow: hidden;
 }
 
 
