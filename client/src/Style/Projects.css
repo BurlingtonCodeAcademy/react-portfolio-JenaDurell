@@ -1,25 +1,31 @@
 #project-head{
-    /* background-color:  gray; */
     height: 95vh;
     width: auto;
     background-image: url(../Images/stay.JPG);
-    background-size: 100vw 95vh;
+    background-size: 100vw 100vh;
     font-family: 'Nunito Sans', sans-serif;
-    color:whitesmoke
-}
-#project-body{
-    /* width: 90%; */
-    margin: auto;
+    color:whitesmoke;
+    overflow: hidden;
 }
 
-h1{ 
-    font-size: 37px;
+#project-content{
+    display: inline-block;
+}
+
+#project-body{
+    width: 90%;
+    margin: auto;
+    font-size: 2vh;
+}
+
+#title{ 
+    font-size: 5vh;
     text-align: center;
     color: whitesmoke
 }
 #how-to{
     color: whitesmoke;
-    padding-left: 1vw;
+    padding-left: 7.5vw;
 }
 a:hover{
     color: red
@@ -27,7 +33,7 @@ a:hover{
 
 .git-link {
     padding-left: 15vw;
-    font-size: 33px;
+    font-size: 3vh;
     text-decoration: none;
     color: whitesmoke;
 }
