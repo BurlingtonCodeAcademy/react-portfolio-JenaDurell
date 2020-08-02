@@ -29,17 +29,19 @@ export default function Work(props) {
                 <ul id = "skills-left">
                        <li> Languages </li>
                        <li> Frameworks</li>
+                       <li>Source Control</li>
+                       <li>Databases</li>
                        <li>Development</li>
                        <li>Photo Editing</li>
-                       <li>Source Control</li>
                 </ul>
 
                 <ul id = "skills-right"> 
-                    <li> React | JavaScript | HTML | CSS</li>
-                    <li> jQuery </li>
-                    <li> Visual Studio </li>
-                    <li> Adobe Lightroom | Photoshop </li>
+                    <li> React | JSX | JavaScript | HTML | CSS</li>
+                    <li> jQuery | React.js | Express.js | Node.js </li>
                     <li> Git | Github</li>
+                    <li> Firebase </li>
+                    <li> Visual Studio | Heroku </li>
+                    <li> Adobe Lightroom | Photoshop </li>
                 </ul>
                    
                     
@@ -55,7 +57,7 @@ export default function Work(props) {
                     My time in the health care industry taught me a lot about working with a collaborative team of various personalities to deliver best outcomes for each patient, every time. It cemented my drive to deliver my best at all times. It solidified my focus and attention to detail, and helped me build friendships that will last a lifetime.
                     </div>
                     <div className ="work-para">
-                    With an early and solid background in the service industry, I built the abilities to prioritize during stressful situations, put out fires before they start (and after they had started too, if necessary) and meet crushing and unrealistic deadlines and demands no matter what.
+                    With an early and solid background in the service industry, I built the abilities to prioritize during stressful situations, put out fires before they start (and after they had started too, if necessary) and meet crushing deadlines and demands no matter what.
                     </div>
                    
                 </div>
