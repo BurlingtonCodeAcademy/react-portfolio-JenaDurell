@@ -1,0 +1,28 @@
+#home-body {
+    height: 95vh;
+    width: auto;
+    background-image: url(../Images/boston.JPEG);
+    background-size: 100vw 95vh;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 27px;
+    color:whitesmoke
+}
+
+#name {
+    display: flex;
+    padding-left: 6vw;
+    padding-top: 22px;
+    font-size: 37px;
+    font-weight: bold;
+}
+
+#home-body a {
+    padding-left: 6vw;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.phone-and-email {
+    padding-left: 7vw;
+
+}

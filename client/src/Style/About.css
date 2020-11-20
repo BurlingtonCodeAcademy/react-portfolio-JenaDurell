@@ -1,0 +1,24 @@
+#about-page {
+  
+   height: 95vh;
+    width: auto;
+    background-image: url(../Images/blurGrass.JPG);
+    background-size: 100vw 95vh;
+    font-family: 'Nunito Sans', sans-serif;
+    background-repeat: repeat-y;
+}
+
+#hello{
+    font-size: 5vh;
+    text-align: center;
+    font-weight: bold;
+    color:gray !important
+}
+
+#about {
+    width: 77vw;
+    font-size: 2.5vh;
+    margin: auto;
+    justify-content: left;
+    
+}
